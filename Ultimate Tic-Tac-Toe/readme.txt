@@ -1,24 +1,15 @@
-/* Software desenvolvido no QtCreator
-Tivemos problemas com as bibliotecas, para executar
-o algoritmo é necessário possuir o QtCreator instalado
+/* Software developed by JoÃ£o Santana and Patricia Cruz, using the QtCreator
 
-
+Download the QTCreator in the following link:
 https://www.qt.io/download-open-source/
-Clique em Download
 
-No linux, dê os comandos:
+In Linux, type the following commands:
 $ chmod +x "download_file"
 $ ./"downloaded_file"
 
+In Windows, just execute.
 
-No windows, apenas execute.
+Select software version 5.5 or higher.
 
-Selecione o software versão 5.5
-
-Abra o projeto selecionando o arquivo .pro da pasta.
-
-Clique no ícone "Projects" à esquerda,
-desmarque a opção "Shadow Build".
-
-Execute.
+Open the project by selecting the .pro file from the folder.
 */
